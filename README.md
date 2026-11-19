@@ -1,5 +1,9 @@
 # news-image-20261119-v2
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Ci3hu1/news-image-20261119-v2/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Ci3hu1/news-image-20261119-v2/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 A newspaper front-page poster summing up Thursday 19 November 2026 world
 news in one image — 50 stories, 7 regions, 3 illustrated heroes, a pinned
 world map, a UTC timeline, and a DATE CHECK box.
@@ -31,3 +35,7 @@ twice writes identical bytes.
 | `STRATEGY.md` | The winning recipe and what v2 improves over v1. |
 | `NOTES.md` | Build notes and the 50 stories with sources. |
 | `LICENSE` | MIT. |
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=cc7tcnw6&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
